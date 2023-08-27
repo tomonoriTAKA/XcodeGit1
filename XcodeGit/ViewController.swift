@@ -15,6 +15,13 @@ class ViewController: UIViewController {
         print("初めてのコミット")
     }
     
+    
+    @IBAction func press(_ sender: Any) {
+        
+        print("ボタンだ!")
+        
+    }
+    
 
     
 
